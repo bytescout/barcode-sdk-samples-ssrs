@@ -1,4 +1,4 @@
 ## Index of source code examples:
 
-\Generate barcodes in SSRS 2010
-\Generate barcodes in SSRS 2012
+\Generate Barcodes in SSRS 2010
+\Generate Barcodes in SSRS 2012
